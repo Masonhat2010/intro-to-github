@@ -1,2 +1,4 @@
 # intro-to-github
-My first Github repository for PLTW computer science 
+**Mason Hatfield**
+**PLTW comuter science**
+**Augest 22, 2025**
